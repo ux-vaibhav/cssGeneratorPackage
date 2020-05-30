@@ -1,0 +1,10 @@
+.menu{
+    background: palegreen;
+}
+.menu ul li {
+    float: left;
+}
+.menu ul li a{
+    display: block;
+    padding:15px;
+}
